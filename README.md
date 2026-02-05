@@ -90,5 +90,3 @@ Change:
 * Stock symbol (e.g., `MSFT`, `GOOGL`)
 * Date range
 * Budget amount
-
-```
