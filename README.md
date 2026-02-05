@@ -92,5 +92,3 @@ Change:
 * Budget amount
 
 ```
-
-Happy trading & learning! 📈
