@@ -132,7 +132,7 @@ The project uses **Groq API** (completely free). Get a key in 30 seconds:
 3. Or for this time being you can use my groq api key which is given below just copy paste the whole .env file.
 4. Create/edit `.env` file in the project folder and add:
    ```
-   GROQ_API_KEY=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
+   GROQ_API_KEY= <your groq api key>
    LLM_MODEL=llama-3.3-70b-versatile
    DATABASE_URL=postgresql://postgres:<your postgresql admin password>@localhost:5432/samsung_advisor
    ```
